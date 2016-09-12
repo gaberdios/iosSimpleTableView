@@ -49,8 +49,6 @@ class ViewController: UIViewController,UITableViewDataSource, UITableViewDelegat
         }
     }
     
-    
-    
 
     override func viewDidLoad() {
         super.viewDidLoad()
